@@ -1,22 +1,24 @@
-Oi, meu apelido é Vanim! 😁
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-✨ Desenvolvedor Full-Stack ✨
+<p align="left">
+  Sou <strong>Desenvolvedor Full Stack</strong>, com experiência profissional em desenvolvimento de software. Meu foco está principalmente no desenvolvimento backend, criação de APIs REST, microsserviços e integrações entre sistemas.
+</p>
 
+<p align="left">
+  🦄 <strong>Linguagens:</strong><br>
+  JavaScript • TypeScript • Python • C# • Go
+</p>
 
-🌱 Atualmente estou estudando CI/CD
+<p align="left">
+  🧠 <strong>Interesses:</strong><br>
+  Arquitetura de software • Microsserviços • APIs escaláveis • Integrações entre sistemas • Cloud Computing • Mensageria • Design Patterns
+</p>
 
-📫 Linkedin: <a href="https://www.linkedin.com/in/giovanniluiznunesfilho/">Linkedin</a>
+<p align="left">
+  💌 <strong>Entre em contato comigo:</strong>
+</p>
 
-💌 Contato: vanimouzad123@gmail.com
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Icon-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Icon-ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Icon-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Icon-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Icon-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="Icon-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-  <img align="right" alt="cat-gif" src="https://cdn.discordapp.com/attachments/837079960967053333/870847888140410900/cat-and-world.gif">
-</div>
+<p align="left">
+  <a href="www.linkedin.com/in/giovanniluiznunesfilho" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+</p>
